@@ -1,0 +1,208 @@
+1656359716369	geckodriver	INFO	Listening on 127.0.0.1:52113
+1656359719468	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52114" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ladyhand\\AppData\\Local\\Temp\\rust_mozprofilezQBWX7"
+1656359720019	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52114
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ladyhand\\AppData\\Local\\Temp\\rust_mozprofilezQBWX7\\search.json.mozlz4", (void 0)))
+1656359724580	Marionette	INFO	Listening on port 52142
+DevTools listening on ws://localhost:52114/devtools/browser/5d135e3b-0e5f-4188-a64a-4b993f80b045
+Read port: 52142
+1656359735379	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://cdn.evbstatic.com/s3-build/fe/build/authentication.4160441047661b2e1f1b.web.js, line 1: Error: Cannot find module './en_AU.json'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1656359990686	Marionette	INFO	Stopped listening on port 52142
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+0)))
+1656359985939	Marionette	INFO	Listening on port 52451
+DevTools listening on ws://localhost:52423/devtools/browser/ca9518a6-f814-4268-afef-349b3ae8d196
+Read port: 52451
+1656359988175	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+JavaScript error: https://cdn.evbstatic.com/s3-build/fe/build/authentication.4160441047661b2e1f1b.web.js, line 1: Error: Cannot find module './en_AU.json'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://cdn.evbstatic.com/s3-build/fe/build/authentication.4160441047661b2e1f1b.web.js, line 1: Error: Cannot find module './en_AU.json'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1656360107127	Marionette	INFO	Stopped listening on port 52451
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+?" (new NotFoundError("Could not open the file at C:\\Users\\ladyhand\\AppData\\Local\\Temp\\rust_mozprofileO7BW2M\\search.json.mozlz4", (void 0)))
+1656360096905	Marionette	INFO	Listening on port 52743
+DevTools listening on ws://localhost:52715/devtools/browser/35ade106-94cb-4da2-a680-448baf4576e0
+Read port: 52743
+1656360097540	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1656360125647	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1656360221210	Marionette	INFO	Stopped listening on port 52743
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1656360231040	geckodriver	INFO	Listening on 127.0.0.1:52935
+1656360234088	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52936" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ladyhand\\AppData\\Local\\Temp\\rust_mozprofilewpMcSj"
+1656360236182	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52936
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ladyhand\\AppData\\Local\\Temp\\rust_mozprofilewpMcSj\\search.json.mozlz4", (void 0)))
+1656360240490	Marionette	INFO	Listening on port 52962
+DevTools listening on ws://localhost:52936/devtools/browser/a7bd6424-115c-4874-ad61-e77677a12c43
+Read port: 52962
+1656360241002	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+JavaScript error: https://cdn.evbstatic.com/s3-build/fe/build/authentication.4160441047661b2e1f1b.web.js, line 1: Error: Cannot find module './en_AU.json'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://www.eventbrite.com.au/attendees-add?eid=371407920087, line 1454: TypeError: Sentry.Integrations.ExtraErrorData is not a constructor
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1656360503868	Marionette	INFO	Stopped listening on port 52962
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656360512372	geckodriver	INFO	Listening on 127.0.0.1:53421
+1656360515451	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53422" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ladyhand\\AppData\\Local\\Temp\\rust_mozprofile4DXth7"
+1656360516219	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53422
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ladyhand\\AppData\\Local\\Temp\\rust_mozprofile4DXth7\\search.json.mozlz4", (void 0)))
+1656360522112	Marionette	INFO	Listening on port 53447
+DevTools listening on ws://localhost:53422/devtools/browser/2528ec26-5993-40bd-882f-bbf539401659
+Read port: 53447
+1656360522244	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+JavaScript error: https://cdn.evbstatic.com/s3-build/fe/build/authentication.4160441047661b2e1f1b.web.js, line 1: Error: Cannot find module './en_AU.json'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+SourceActor threw an exception: [Exception... "Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:545:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2121:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:556:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:465:21
+Line: 699, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1656360742056	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53756" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ladyhand\\AppData\\Local\\Temp\\rust_mozprofilelTvBTv"
+1656360743521	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53756
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ladyhand\\AppData\\Local\\Temp\\rust_mozprofilelTvBTv\\search.json.mozlz4", (void 0)))
+1656360748540	Marionette	INFO	Listening on port 53785
+DevTools listening on ws://localhost:53756/devtools/browser/613d58b8-59af-476e-b6e7-1bcd7a04b469
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+Read port: 53785
+1656360750275	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+JavaScript error: https://cdn.evbstatic.com/s3-build/fe/build/authentication.4160441047661b2e1f1b.web.js, line 1: Error: Cannot find module './en_AU.json'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+JavaScript error: https://cdn.evbstatic.com/s3-build/fe/build/authentication.4160441047661b2e1f1b.web.js, line 1: Error: Cannot find module './en_AU.json'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1656360972703	Marionette	INFO	Stopped listening on port 53785
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54057" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ladyhand\\AppData\\Local\\Temp\\rust_mozprofilekYVC4N"
+1656360899310	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54057
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ladyhand\\AppData\\Local\\Temp\\rust_mozprofilekYVC4N\\search.json.mozlz4", (void 0)))
+1656360903845	Marionette	INFO	Listening on port 54092
+DevTools listening on ws://localhost:54057/devtools/browser/28211a4e-4aac-4361-b641-1667b39dfbcf
+Read port: 54092
+1656360906510	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+JavaScript error: https://cdn.evbstatic.com/s3-build/fe/build/authentication.4160441047661b2e1f1b.web.js, line 1: Error: Cannot find module './en_AU.json'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+JavaScript error: https://cdn.evbstatic.com/s3-build/fe/build/authentication.4160441047661b2e1f1b.web.js, line 1: Error: Cannot find module './en_AU.json'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1656361946770	Marionette	INFO	Stopped listening on port 54092
+[Parent 14944, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 14944, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+Fh\\search.json.mozlz4", (void 0)))
+1656361190537	Marionette	INFO	Listening on port 54498
+DevTools listening on ws://localhost:54471/devtools/browser/a530a0eb-4c44-465b-931a-0e784a546af9
+Read port: 54498
+1656361191749	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+JavaScript error: https://cdn.evbstatic.com/s3-build/fe/build/authentication.4160441047661b2e1f1b.web.js, line 1: Error: Cannot find module './en_AU.json'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.eventbrite.com.au"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1656361947875	Marionette	INFO	Stopped listening on port 54498
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
